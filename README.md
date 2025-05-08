@@ -15,3 +15,4 @@ The dataset is a is a .csv file which contains 149,116 rows of data with column 
 - product_category : Show what category the item ordered belonged to
 - product_type : The type of product ordered
 - Product_detail : Showed detail of the product type ordered.
+## Data Cleaning and Analysis
