@@ -31,3 +31,7 @@ Microsoft Excel was used in the data cleaning and analysis
 - **Top selling product category**: An evaluation of the product categories with the most generated revenue
 - **Order Distribution by Coffee Type**: An analysis of the distribution of orders across different coffee types
 - **Peak Day and Hour**: An analysis to identify the hours and days with the highest revenue
+## Dashboard
+![image](https://github.com/user-attachments/assets/c014e4b0-dcd2-478d-9d02-1702e7f67adf)
+## Summary
+The Total Revenue generated across the three store location was 669K, a total of 149K orders was placed, Monday was the best selling days and sales tend to peak around 10am, about 56% of sales occur during the morning period
