@@ -34,4 +34,4 @@ Microsoft Excel was used in the data cleaning and analysis
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/c014e4b0-dcd2-478d-9d02-1702e7f67adf)
 ## Summary
-The Total Revenue generated across the three store location was 669K, a total of 149K orders was placed, Monday was the best selling days and sales tend to peak around 10am, about 56% of sales occur during the morning period
+The Total Revenue generated across the three store locations was 669K, a total of 149K orders was placed, Monday was the best selling days and sales tend to peak around 10am, about 56% of sales occur during the morning period
