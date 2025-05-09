@@ -9,10 +9,25 @@ Maven Roasters is a fictional coffee shop with three locations across New York C
 The dataset is a is a .csv file which contains 149,116 rows of data with column names:
 - Transaction_ID : Which shows the unique ttansaction id of items ordered
 - Transaction_date : Which showed the date the items where ordered
-- Transaction time : Showed what time the item was orderd
+- Transaction_time : Showed what time the item was orderd
 - transaction_qty : Show the total quantity of items ordered for each transaction
 - Unit_price : The price at which each item was sold
 - product_category : Show what category the item ordered belonged to
 - product_type : The type of product ordered
 - Product_detail : Showed detail of the product type ordered.
 ## Data Cleaning and Analysis
+Microsoft Excel was used in the data cleaning and analysis 
+### Steps
+1. Checked for duplicates, which there were none.
+2. Checked for blanks and nulls, Which there where also no null values.
+3. Checked if each columns where in the right format.
+4. Extracted columns for Weekday and Month from the transaction_date column
+5. Extracted the hour_of_day column from the transaction_time column.
+6. Analysis was carried out using pivot tables.
+7. Visualization was done using pivot charts.
+## Analysis Results
+- **Total Revenue generated,Total orders**:A comprehensive evaluation, focusing on key metrics such as Total Revenue, Count of Orders
+- **Monthly and Daily Sales Revenue**: Analyzed sales trends across different months and days.
+- **Top selling product category**: An evaluation of the product categories with the most generated revenue
+- **Order Distribution by Coffee Type**: An analysis of the distribution of orders across different coffee types
+- **Peak Day and Hour**: An analysis to identify the hours and days with the highest revenue
