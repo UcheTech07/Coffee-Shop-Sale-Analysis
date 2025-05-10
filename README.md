@@ -7,12 +7,12 @@ Maven Roasters is a fictional coffee shop with three locations across New York C
 - Which products are sold most and least often? Which drive the most revenue for the business?
 ## Data Structure
 The dataset is a is a .csv file which contains 149,116 rows of data with column names:
-- Transaction_ID : Which shows the unique ttansaction id of items ordered
-- Transaction_date : Which showed the date the items where ordered
-- Transaction_time : Showed what time the item was orderd
-- transaction_qty : Show the total quantity of items ordered for each transaction
+- Transaction_ID : Shows the unique ttansaction id of items ordered
+- Transaction_date : Shows the date the items where ordered
+- Transaction_time : Shows what time the item was orderd
+- transaction_qty : Shows the total quantity of items ordered for each transaction
 - Unit_price : The price at which each item was sold
-- product_category : Show what category the item ordered belonged to
+- product_category : Shows what category the item ordered belonged to
 - product_type : The type of product ordered
 - Product_detail : Showed detail of the product type ordered.
 ## Data Cleaning and Analysis
