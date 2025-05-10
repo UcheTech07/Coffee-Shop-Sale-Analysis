@@ -9,14 +9,14 @@ Data was gotten from [Maven Analytics](https://mavenanalytics.io/data-playground
 - Which products are sold most and least often? Which drive the most revenue for the business?
 ## Data Structure
 The dataset is a is a .csv file which contains 149,116 rows of data with column names:
-- Transaction_ID : Shows the unique ttansaction id of items ordered
+- Transaction_ID : Shows the unique transaction id of items ordered
 - Transaction_date : Shows the date the items where ordered
 - Transaction_time : Shows what time the item was orderd
 - transaction_qty : Shows the total quantity of items ordered for each transaction
 - Unit_price : The price at which each item was sold
 - product_category : Shows what category the item ordered belonged to
 - product_type : The type of product ordered
-- Product_detail : Showed detail of the product type ordered.
+- Product_detail : Shows details of the product type ordered.
 ### For Excel file 
 Click 👉[Here](https://drive.google.com/drive/folders/1Nds6U1bjyhYVRR7fVWHS0EE_a67a-S0_?usp=drive_link)👈
 ## Data Cleaning and Analysis
