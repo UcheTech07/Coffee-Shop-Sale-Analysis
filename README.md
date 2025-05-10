@@ -17,6 +17,8 @@ The dataset is a is a .csv file which contains 149,116 rows of data with column 
 - product_category : Shows what category the item ordered belonged to
 - product_type : The type of product ordered
 - Product_detail : Showed detail of the product type ordered.
+### For Excel file 
+Click 👉[Here](https://drive.google.com/drive/folders/1Nds6U1bjyhYVRR7fVWHS0EE_a67a-S0_?usp=drive_link)👈
 ## Data Cleaning and Analysis
 Microsoft Excel was used in the data cleaning and analysis 
 ### Steps
