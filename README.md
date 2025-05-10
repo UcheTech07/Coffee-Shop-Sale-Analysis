@@ -35,3 +35,13 @@ Microsoft Excel was used in the data cleaning and analysis
 ![image](https://github.com/user-attachments/assets/c014e4b0-dcd2-478d-9d02-1702e7f67adf)
 ## Summary
 The Total Revenue generated across the three store locations was 669K, a total of 149K orders was placed, Monday was the best selling days and sales tend to peak around 10am, about 56% of sales occur during the morning period
+## Recomendations
+- **Double Down on Peak Hours**: Since 56% of sales occur in the morning and peak around 10am, ensure all stores are fully staffed and well-stocked before 9am.
+- **Utilize Monday Momentum**: Capitalize on Mondays being the best-selling day by running special promotions or campaigns to attract more customers and increase average order value.
+- **Optimize Marketing Strategies**: Focus marketing efforts on Coffee since it is the top-selling and highest revenue-generating category—specifically Barista Espresso. Consider strategies like "Buy 5 get 1 free", also consider Subscription options for regular customers
+- **Use Data to Plan Expansion or Optimization**: Since Hell's Kitchen is the best prforming store, use insights to identify what can be replicated across other stores. Like staffing, layout, local promotions, etc.
+- **Add Product Mix**: Consider adding combo deals that go with Coffee, like adding Pastry to maximize revenue.
+## Conclusion
+The Coffee Shop Sales Analysis dashboard delivers key insights into sales performance, enabling data-driven decisions to boost sales strategies, refine product offerings, and enhance overall business efficiency.
+## Author
+[Okonkwo Uche](https://www.linkedin.com/in/okonkwo-uche-28891a295/)
